@@ -1,0 +1,66 @@
+Echipa tema 2 SD:
+vlad_gabriel.palade
+mihnea.nicola
+
+TASK 1
+
+In cadrul acestui task am construit baza de date de legaturi intre prietenii
+retelei noaste de socializare. Astfel prin comenzile add si remove am reusit
+sa facem matricea de adiacenta a grafului de conexiuni.
+
+De asemenea am folosit si algoritmul BFS pentru a vedea de cati prieteni ai
+prietenilor avem nevoie pentru a ne conecta cu cineva.
+
+Gradul de popularitate este construit de numarul de prieteni al fiecarei
+persoane din social media(numarul de 1 din matricea de adiacenta).
+
+Comanda de suggestion ne arata toate persoane cu distanta 2.
+Comanda de common friends am realizat o cu un for verificand pentru fiecare
+persoana daca este prietena cu persoanele pe care le vrem noi.
+
+TASK 2
+In cadrul acestui task ne vom folosi de structura Node prezentata amanuntit
+in cadrul fisierului posts.h . Am construit un vector de postari in care 
+fiecare postare va fi construita prin create post. Fiecare postare are 
+la inceput campul de events(adica de repostari NULL), iar daca se foloseste 
+comanda create repost acest camp se aloca dinamic si se creeaza un vector de
+repostari, concept asemantor cu cel al vectorilor de postari.
+
+In common repost am folosit un algoritm de tip dfs pentru a crea un
+vector de parinti, dupa care se pastreaza parintii reposturilor cerute si
+se gaseste primul comun.
+
+Pentru likes se gaseste postarea / repostarea ceruta se verifica daca 
+persoana respectiva a dat deja like sau nu si se updateaza numarul de 
+likeuri total dupa caz.
+
+Pentru ratio si get-reposts se folosesc algoritmi de tip dfs pentru a 
+parcurge toata postarea si a obtine informatiile cerute.
+
+In delete se sterge postarea cu toate reposturile ei / repostul cu toate
+reposturile.
+
+TASK 3
+
+Comanda feed arata pe pagina utilizatorului pe care il dorim toate postarile
+cat de recente vrem noi, facem asta printr-un for care parcurge toate postarile
+si vedem daca sunt facute de utilizatorul nostru sau de prietenii lui.
+
+Comanda de view profile am facute parcurgand toate postarile si verificand daca
+este a utilizatorului dorit, daca da o parcurgem printr un dfs in postare
+
+Comanda repost-friend prima data e nevoie sa gasim exact postarea pe care o
+dorim, dupa printr-un algoritm tot tip dfs vom afisa prietenii care au
+repostat.
+
+Comanda clica este facuta prin algoritmul lui Bron , multimile initiale ale
+functiei sunt construite astfel R este user la care vrem sa ii gasim clica,
+P sunt toti prietenii lui, iar X multimea vida. Facand asta am scurtat
+semnificativ timpul de rulare, altfel ar fi fost necesar ca de fiecare data
+cand P si X sunt vide sa verificam daca user-ul nostru este in ea. La reapelul
+functiei refacem multimile P,R,X astfel : lui R ii adaugam nodul la care suntem,
+intersectam multimile P si X cu vecinii nodului.
+
+Unii algoritmi implementati in acest program nu ar fi eficienti in cazul in care
+aplicatia noastra de social media ar fii una foarte mare. Presupun ca aplicatia este
+doar pentru elevi curenti din politehnica.
