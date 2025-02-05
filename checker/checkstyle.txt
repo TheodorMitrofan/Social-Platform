@@ -1,0 +1,532 @@
+./feed.c:129: CHECK:CAMELCASE: Avoid CamelCase: <Node>
+./feed.c:151: CHECK:PARENTHESIS_ALIGNMENT: Alignment should match open parenthesis
+./feed.h:11: CHECK:SPACING: spaces preferred around that '*' (ctx:WxO)
+./feed.h:11: CHECK:CAMELCASE: Avoid CamelCase: <Node>
+./friends.c:249: CHECK:PARENTHESIS_ALIGNMENT: Alignment should match open parenthesis
+./posts.c:13: CHECK:CAMELCASE: Avoid CamelCase: <Node>
+./posts.c:14: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:14: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:15: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:16: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:16: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:17: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:18: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:18: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:18: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "repost"
+./posts.c:19: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:19: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:20: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:21: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:22: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:23: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:24: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:25: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:29: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:30: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:31: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:31: WARNING:QUOTED_WHITESPACE_BEFORE_NEWLINE: unnecessary whitespace before a quoted newline
+./posts.c:32: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:33: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:34: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:35: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:35: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:35: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:36: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:37: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:38: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:39: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:40: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:41: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:42: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:43: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:44: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:45: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:46: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:48: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:49: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:50: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:51: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:55: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:56: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:57: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:58: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:59: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:60: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:60: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:60: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:61: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:62: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:63: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:63: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:63: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:64: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:65: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:66: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:66: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:66: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:67: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:68: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:69: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:70: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:71: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:72: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:73: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:74: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:75: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:76: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:77: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:77: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:78: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:79: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:79: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!s3"
+./posts.c:80: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:80: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:81: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:82: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:83: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:84: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:85: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:86: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:87: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:88: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:89: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:90: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:90: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:91: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:92: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:93: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:94: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:95: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:95: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:96: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:97: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:98: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:99: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:100: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:101: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:102: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:103: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:104: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:105: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:105: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:106: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:107: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:109: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:110: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:114: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:114: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:115: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:116: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:118: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:119: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:119: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:120: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:121: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:122: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:123: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:123: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:124: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:128: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:129: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:130: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:131: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:132: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:133: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:133: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:133: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:134: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:135: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:136: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:136: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:136: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:137: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:138: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:139: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:140: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:141: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:142: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:143: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:144: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:145: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:146: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:146: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:147: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:148: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:148: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!s2"
+./posts.c:149: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:150: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:151: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:152: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:153: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:154: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:158: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:159: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:160: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:161: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:162: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:163: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:163: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:163: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:164: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:165: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:166: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:166: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:166: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:167: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:168: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:169: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:169: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:169: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:170: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:171: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:172: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:173: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:174: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:175: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:176: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:177: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:178: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:179: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:180: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:180: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:181: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:182: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:182: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!s3"
+./posts.c:183: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:183: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:184: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:185: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:186: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:186: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:187: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:188: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:189: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:190: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:191: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:192: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:193: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:193: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:194: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:195: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:196: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:196: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:197: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:198: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:199: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:200: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:201: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:205: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:206: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:207: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:208: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:209: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:210: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:210: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:210: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:211: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:212: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:213: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:213: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:213: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:214: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:215: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:216: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:217: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:218: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:219: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:220: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:221: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:222: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:223: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:223: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:224: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:225: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:225: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!s2"
+./posts.c:226: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:227: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:228: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:229: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:230: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:231: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:235: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:236: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:237: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:237: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:238: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:239: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:240: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:240: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:241: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:245: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:246: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:247: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:248: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:249: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:250: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:250: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:250: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:251: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:252: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:253: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:254: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:255: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:256: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:257: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:258: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:259: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:260: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:260: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:261: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:262: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:263: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:264: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:264: WARNING:BRACES: braces {} are not necessary for any arm of this statement
+./posts.c:265: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:266: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:267: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:268: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:272: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:272: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:272: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!posts"
+./posts.c:273: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:273: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:274: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:275: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:276: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:276: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:277: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:278: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:278: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "posts->events"
+./posts.c:279: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:279: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:279: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:280: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:281: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:282: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:283: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:287: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:288: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:288: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:289: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:290: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:290: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:291: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:291: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:292: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:293: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:293: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:294: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:295: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:295: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:295: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "result"
+./posts.c:296: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:296: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:297: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:298: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:299: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:300: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:304: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:305: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:306: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:307: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:308: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:309: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:309: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:309: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:310: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:311: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:312: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:312: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:312: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:313: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:314: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:315: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:316: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:317: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:318: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:319: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:320: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:321: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:322: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:322: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:323: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:324: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:325: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:325: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!s2"
+./posts.c:326: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:327: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:328: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:328: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:329: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:330: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:331: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:332: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:333: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:334: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:335: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:336: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:337: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:338: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:339: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:340: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:344: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:345: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:346: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:346: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:347: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:351: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:352: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:353: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:354: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:355: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:356: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:356: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:356: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:357: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:358: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:359: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:359: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:359: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:360: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:361: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:362: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:362: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:362: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./posts.c:363: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:364: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:365: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:366: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:367: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:368: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:369: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:370: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:371: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:372: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:372: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:373: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:374: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:375: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:376: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:377: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:378: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:379: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:380: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:381: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:383: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:384: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:385: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:386: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:387: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:388: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:390: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:391: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:392: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:393: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:394: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:395: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:397: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:398: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:399: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:400: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:401: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:402: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:404: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:405: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:406: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:406: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:407: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:408: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:408: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:409: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:410: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:410: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:411: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:411: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:412: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:413: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:413: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:414: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:415: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:415: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:416: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:417: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:417: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:418: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:418: WARNING:SUSPECT_CODE_INDENT: suspect code indent for conditional statements (4, 6)
+./posts.c:419: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:420: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:420: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:422: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:423: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:424: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:424: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:426: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:427: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:428: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:432: ERROR:CODE_INDENT: code indent should use tabs where possible
+./posts.c:432: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:433: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:434: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:435: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:435: ERROR:TRAILING_STATEMENTS: trailing statements should be on next line
+./posts.c:437: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:438: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:440: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:441: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:443: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:444: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:446: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:447: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:449: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:450: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:452: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:453: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:453: WARNING:SPACING: space prohibited between function name and open parenthesis '('
+./posts.c:455: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:456: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:458: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:459: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:461: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:462: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.c:465: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:10: ERROR:TRAILING_WHITESPACE: trailing whitespace
+./posts.h:15: CHECK:CAMELCASE: Avoid CamelCase: <Node>
+./posts.h:16: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:17: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:18: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:19: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:20: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:21: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:22: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./posts.h:30: CHECK:LONG_LINE: line length of 82 exceeds 80 columns
+./posts.h:34: ERROR:TRAILING_WHITESPACE: trailing whitespace
+./posts.h:35: ERROR:TRAILING_WHITESPACE: trailing whitespace
+./posts.h:45: ERROR:POINTER_LOCATION: "foo* bar" should be "foo *bar"
+./posts.h:45: ERROR:POINTER_LOCATION: "foo* bar" should be "foo *bar"
+./posts.h:51: ERROR:TRAILING_WHITESPACE: trailing whitespace
+./posts.h:53: ERROR:TRAILING_WHITESPACE: trailing whitespace
+./posts.h:76: ERROR:POINTER_LOCATION: "foo* bar" should be "foo *bar"
+./posts.h:88: ERROR:SPACING: space prohibited before that ',' (ctx:WxW)
+./social_media.c:32: CHECK:CAMELCASE: Avoid CamelCase: <Node>
+./social_media.c:33: ERROR:SPACING: space required before the open parenthesis '('
+./social_media.c:33: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "!posts"
+./social_media.c:35: WARNING:BRACES: braces {} are not necessary for single statement blocks
+./social_media.c:38: ERROR:SPACING: space required before the open parenthesis '('
+./social_media.c:40: ERROR:SPACING: space required before the open parenthesis '('
+./social_media.c:42: CHECK:COMPARISON_TO_NULL: Comparison to NULL could be written "posts->events"
+./social_media.c:43: ERROR:CODE_INDENT: code indent should use tabs where possible
+./social_media.c:43: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./social_media.c:44: ERROR:SPACING: space required before the open parenthesis '('
+./social_media.c:45: ERROR:CODE_INDENT: code indent should use tabs where possible
+./social_media.c:45: WARNING:SPACE_BEFORE_TAB: please, no space before tabs
+./social_media.c:45: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./social_media.c:46: ERROR:CODE_INDENT: code indent should use tabs where possible
+./social_media.c:46: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./social_media.c:47: ERROR:CODE_INDENT: code indent should use tabs where possible
+./social_media.c:47: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./social_media.c:48: WARNING:LEADING_SPACE: please, no spaces at the start of a line
+./social_media.c:50: CHECK:LINE_SPACING: Please use a blank line after function/struct/union/enum declarations
+./social_media.c:61: ERROR:POINTER_LOCATION: "(foo**)" should be "(foo **)"
+./social_media.c:61: ERROR:POINTER_LOCATION: "(foo*)" should be "(foo *)"
+./social_media.c:92: ERROR:SPACING: space required before the open parenthesis '('
+./social_media.c:107: WARNING:MISSING_EOF_NEWLINE: adding a line without newline at end of file
